@@ -49,3 +49,10 @@ persist.radio.snapshot_timer=22
 ro.ril.wp.feature=1
 ro.use_data_netmgrd=true
 
+# hardware info
+ro.device.chipset=Qualcomm Snapdragon 600 APQ8064T
+ro.device.cpu=1.7GHz quad-core Krait 300
+ro.device.gpu=Adreno 320
+ro.device.rear_cam=4 MP
+ro.device.front_cam=2 MP
+ro.device.screen_res=1920x10800
